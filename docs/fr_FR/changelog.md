@@ -1,1 +1,16 @@
-# Change Log...
+# Change Log
+
+07/02/2016
+v1 : Version initiale
+
+19/02/2016
+v1.1 : Prise en compte statut PARTIEL Démarrage du démon dès l’activation du plugin. Log Debug module Powerlink
+
+13/03/2016
+v1.2 : Mise à jour du plugin suivant Jeedom v2. Correction chemin pour le démon Ajout du port IP dans la configuration Ajout documentation
+
+09/04/2016
+v1.3 : Debut de correction pour les Powerlink Anglais Correction problème arrêt plugin
+
+09/04/2016
+v1.4 : Correction de la récupération des données Ajout log pour les statuts inconnus
