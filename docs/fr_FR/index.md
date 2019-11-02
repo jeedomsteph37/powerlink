@@ -1,5 +1,8 @@
 # Plugin Powerlink
 
+![GitHub Logo](/../images/pmax.jpg)
+
+
 Le plugin Powerlink permet de communiquer avec les alarmes Visonic par l’intermédiaire du module Powerlink 2.
 Il permet de connaitre le statut de la centrale et des détecteurs. (Prêt, Non Prêt, Ouvert, En Alarme, etc…​)
 
