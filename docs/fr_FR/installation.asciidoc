@@ -1,7 +1,0 @@
-== Installation :
-
-Il n'y a pas d'installation particuliere à prévoir.
-Le plugin se connecte avec le module Visonic Powerlink par IP.
-
-Un démon local est démarré par le plugin et communique toutes les 5 secondes avec Powerlink.
-Le démon vérifie toutes les 15 minutes que le plugin fonctionne, sinon il le relance.
