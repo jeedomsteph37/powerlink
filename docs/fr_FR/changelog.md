@@ -16,10 +16,17 @@ v1.3 : Debut de correction pour les Powerlink Anglais Correction problème arrê
 v1.4 : Correction de la récupération des données Ajout log pour les statuts inconnus
 
 28/12/2019
+
 Passage du plugin en version 4 de Jeedom.
+
 Sépration de la centrale et des détecteurs
+
 Informations découpés. (statut en texte ou binaire, En alarme, Armé, …)
+
 Etat des piles remontés dans Jeedom
+
 Daemon piloté par Jeedom
+
 Gestion de plusieurs alarmes possibles
+
 Correction de quelques bugs
