@@ -10,7 +10,7 @@ Le plugin a été mis à jour pour fonctionner sur Jeedom v4.
 >Le détecteur de mouvement ne génère pas de statut dans le module Powerlink (sauf en alarme) Il n’est donc pas possible de connaitre son statut. 
 
 ## Installation :
-Il n’y a pas d’installation particuliere à prévoir. Le plugin se connecte avec le module Visonic Powerlink par IP comme un navigateur internet.
+Il n’y a pas d’installation particulière à prévoir. Le plugin se connecte avec le module Visonic Powerlink par IP comme un navigateur internet.
 Un démon local est démarré par le plugin et communique par défaut toutes les 5 secondes avec Powerlink.
 
 ## Configuration Général
@@ -23,18 +23,18 @@ Indiquer le mot de passe, par défaut Admin123.
 
 >Il faut respecter la casse pour le mot de passe et le nom d’utilisateur. 
 
-## Configuration des détécteurs
-Chaque détecteurs est représenté comme un équipement.
-Dans le type il faut donc indiquer la zone correspondant à la centrale précédement créé.
+## Configuration des détecteurs
+Chaque détecteur est représenté comme un équipement.
+Dans le type il faut donc indiquer la zone correspondant à la centrale précédemment créé.
 Inutile de renseigner ici l'IP, port, utilisateur et mot de passe.
 
 ## Configuration des commandes
 Il est possible d’ajouter soit des infos, soit des actions.
 
 Chaque commande de type info ajouté correspond à la zone de l'équipement créé.
-Chaque action ajouté correspond l'équipement centrale même si elle ajouter sur une zone.
+Chaque action ajoutée correspond l'équipement centrale même si elle ajouter sur une zone.
 
-L'information peut etre de type texte (Pret, Total, etc...) et de type binaire (0 ou 1).
+L'information peut être de type texte (Pret, Total, etc...) et de type binaire (0 ou 1).
 Les informations de type binaire permettent d'historiser et de créer des scénarios beaucoup plus simplement.
 
 ## Batteries
