@@ -30,3 +30,6 @@ Daemon piloté par Jeedom
 Gestion de plusieurs alarmes possibles
 
 Correction de quelques bugs
+
+06/02/2021
+Ajout compatibilité Smart, Rpi4, etc...
