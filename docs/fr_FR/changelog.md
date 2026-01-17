@@ -33,3 +33,7 @@ Correction de quelques bugs
 
 06/02/2021
 Ajout compatibilité Smart, Rpi4, etc...
+
+17/01/2026
+Correction pour PHP8
+Ajout de l'état dans les commandes
